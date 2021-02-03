@@ -1,0 +1,6 @@
+co\yixiang\message\redis\config\RedisKeyInitialization.class
+co\yixiang\message\redis\listener\RedisKeyExpirationListener.class
+co\yixiang\message\rocketmq\MqProducer.class
+co\yixiang\message\rocketmq\MqConsumer.class
+co\yixiang\message\redis\config\RedisConfigProperties.class
+co\yixiang\message\redis\config\RedisListenerConfig.class

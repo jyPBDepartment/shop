@@ -1,0 +1,6 @@
+D:\工作目录\code\yshop3.1\jy-shop\jy-shop-message\src\main\java\co\yixiang\message\redis\config\RedisConfigProperties.java
+D:\工作目录\code\yshop3.1\jy-shop\jy-shop-message\src\main\java\co\yixiang\message\redis\listener\RedisKeyExpirationListener.java
+D:\工作目录\code\yshop3.1\jy-shop\jy-shop-message\src\main\java\co\yixiang\message\rocketmq\MqProducer.java
+D:\工作目录\code\yshop3.1\jy-shop\jy-shop-message\src\main\java\co\yixiang\message\redis\config\RedisKeyInitialization.java
+D:\工作目录\code\yshop3.1\jy-shop\jy-shop-message\src\main\java\co\yixiang\message\redis\config\RedisListenerConfig.java
+D:\工作目录\code\yshop3.1\jy-shop\jy-shop-message\src\main\java\co\yixiang\message\rocketmq\MqConsumer.java

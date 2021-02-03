@@ -1,0 +1,14 @@
+D:\工作目录\code\yshop3.1\jy-shop\jy-shop-generator\src\main\java\co\yixiang\gen\domain\GenConfig.java
+D:\工作目录\code\yshop3.1\jy-shop\jy-shop-generator\src\main\java\co\yixiang\gen\domain\ColumnConfig.java
+D:\工作目录\code\yshop3.1\jy-shop\jy-shop-generator\src\main\java\co\yixiang\gen\service\GenConfigService.java
+D:\工作目录\code\yshop3.1\jy-shop\jy-shop-generator\src\main\java\co\yixiang\gen\rest\GenConfigController.java
+D:\工作目录\code\yshop3.1\jy-shop\jy-shop-generator\src\main\java\co\yixiang\gen\service\impl\GenConfigServiceImpl.java
+D:\工作目录\code\yshop3.1\jy-shop\jy-shop-generator\src\main\java\co\yixiang\gen\rest\GeneratorController.java
+D:\工作目录\code\yshop3.1\jy-shop\jy-shop-generator\src\main\java\co\yixiang\gen\domain\vo\ColumnInfo.java
+D:\工作目录\code\yshop3.1\jy-shop\jy-shop-generator\src\main\java\co\yixiang\gen\domain\vo\TableInfo.java
+D:\工作目录\code\yshop3.1\jy-shop\jy-shop-generator\src\main\java\co\yixiang\gen\service\impl\GeneratorServiceImpl.java
+D:\工作目录\code\yshop3.1\jy-shop\jy-shop-generator\src\main\java\co\yixiang\gen\service\mapper\ColumnInfoMapper.java
+D:\工作目录\code\yshop3.1\jy-shop\jy-shop-generator\src\main\java\co\yixiang\gen\service\mapper\GenConfigMapper.java
+D:\工作目录\code\yshop3.1\jy-shop\jy-shop-generator\src\main\java\co\yixiang\gen\utils\GenUtil.java
+D:\工作目录\code\yshop3.1\jy-shop\jy-shop-generator\src\main\java\co\yixiang\gen\service\GeneratorService.java
+D:\工作目录\code\yshop3.1\jy-shop\jy-shop-generator\src\main\java\co\yixiang\gen\utils\ColUtil.java

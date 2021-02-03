@@ -1,0 +1,14 @@
+co\yixiang\gen\domain\vo\TableInfo.class
+co\yixiang\gen\utils\ColUtil.class
+co\yixiang\gen\service\impl\GeneratorServiceImpl.class
+co\yixiang\gen\service\impl\GenConfigServiceImpl.class
+co\yixiang\gen\service\mapper\ColumnInfoMapper.class
+co\yixiang\gen\service\mapper\GenConfigMapper.class
+co\yixiang\gen\domain\GenConfig.class
+co\yixiang\gen\service\GeneratorService.class
+co\yixiang\gen\service\GenConfigService.class
+co\yixiang\gen\domain\ColumnConfig.class
+co\yixiang\gen\domain\vo\ColumnInfo.class
+co\yixiang\gen\utils\GenUtil.class
+co\yixiang\gen\rest\GenConfigController.class
+co\yixiang\gen\rest\GeneratorController.class
